@@ -13,6 +13,4 @@ RUN bundle install
 RUN npm install yarn -g
 RUN gem update
 COPY . /usr/src/app/
-RUN yarn install
-RUN yarn upgrade
-CMD ["rails", "s", "-b", "0.0.0.0"]
+

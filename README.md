@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Skeleton for rails 6 stimulus start with docker. No test folder.
 
-Things you may want to cover:
+* Ruby version 2.7.1
 
-* Ruby version
-
-* System dependencies
+* System dependencies Stimulusjs
 
 * Configuration
 
-* Database creation
+* Database creation SQL Lite
 
 * Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
