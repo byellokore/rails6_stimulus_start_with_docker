@@ -1,0 +1,18 @@
+# Git
+.gitignore
+.git
+
+# Logs
+log/*
+
+# Temp files
+
+tmp/*
+
+# Editor temp files
+
+*.swp
+*.swo
+
+# Node Modules
+node_modules/*
